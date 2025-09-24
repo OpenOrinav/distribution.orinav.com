@@ -1,5 +1,8 @@
 {
   "timestamp": 1758519598,
   "version": "1.0",
-  "content": "Welcome to Orinav.\n\nThis initial release of Orinav contains preliminary features, including Navigate and Explore."
+  "content": {
+    "en": "Welcome to Orinav.\n\nThis initial release of Orinav contains preliminary features, including Navigate and Explore.",
+    "zh": "欢迎使用奥里导航。\n\n奥里导航的首个版本提供初步功能，包括导航与探索。"
+  }
 }

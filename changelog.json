@@ -3,6 +3,6 @@
   "version": "1.0",
   "content": {
     "en": "Welcome to Orinav.\n\nThis initial release of Orinav contains preliminary features, including Navigate and Explore.",
-    "zh_Hans": "欢迎使用奥里导航。\n\n奥里导航的首个版本提供初步功能，包括导航与探索。"
+    "zh-Hans": "欢迎使用奥里导航。\n\n奥里导航的首个版本提供初步功能，包括导航与探索。"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "timestamp": 1758519598,
-  "version": "1.0",
+  "timestamp": 1785990250,
+  "version": "26.1.12",
   "content": {
-    "en": "Welcome to Orinav.\n\nThis initial release of Orinav contains preliminary features, including Navigate and Explore.",
-    "zh-Hans": "欢迎使用奥里导航。\n\n奥里导航的首个版本提供初步功能，包括导航与探索。"
+    "en": "Thank you for using Orinav! This release brings bug fixes to help you discover new places and navigate to them.\n- To improve battery life, you may now disable haptic feedback across the application.\n- Fixed navigation issues that prevented searching under specific conditions.",
+    "zh-Hans": "感谢您使用奥里导航! 本次更新带来的新功能及问题修复有助于您探索新地点并更好地出行。\n- 为增加电池寿命，您现可在软件中关闭触感反馈。\n- 修复了部分情况下无法搜索地点的问题。"
   }
 }

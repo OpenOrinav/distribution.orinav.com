@@ -1,8 +1,8 @@
 {
-  "timestamp": 1785990250,
-  "version": "26.1.12",
+  "timestamp": 1788525723,
+  "version": "26.2.1",
   "content": {
-    "en": "Thank you for using Orinav! This release brings new features and bug fixes to help you discover new places and navigate to them.\n- Added step-by-step navigation: you are now notified of the number of steps to take before reaching a destination.\n- To improve battery life, you may now disable haptic feedback across the application.\n- Fixed navigation issues that prevented searching under specific conditions.",
-    "zh-Hans": "感谢您使用奥里导航! 本次更新带来的新功能及问题修复有助于您探索新地点并更好地出行。\n- 增加了「逐步导航」: 您将会听到需要走多少步才能到达目的地。\n- 为增加电池寿命，您现可在软件中关闭触感反馈。\n- 修复了部分情况下无法搜索地点的问题。"
+    "en": "Thank you for using Orinav! This release brings new features and bug fixes to help you discover new places and navigate to them.\n- Improved navigation user interface with larger cards.\n- Incorporated built-in voice search.",
+    "zh-Hans": "感谢您使用奥里导航! 本次更新带来的新功能及问题修复有助于您探索新地点并更好地出行。\n- 使用更大的卡片改善导航用户界面。\n- 加入内置语音搜索。"
   }
 }
